@@ -158,4 +158,4 @@ Acknowledgments give to the following people who comment or contribute to this r
 - [NYXFLOWER](https://github.com/NYXFLOWER)
 - [Arun-George-Zachariah](https://github.com/Arun-George-Zachariah)  
 
-__[⬆](#awesome-knowledge-graph)__
+__[⬆](#knowledge-graphs)__
